@@ -18,7 +18,7 @@ install_requires = [
     "numpy>=1.20.0,<2;python_version>='3.7'",
     'pandas>=1.1.3,<2',
     'tqdm>=4.15,<5',
-    'copulas@git+ssh://git@github.com/dyuliu/Copulas.git@master'
+    'copulas@git+ssh://git@github.com/dyuliu/Copulas.git@master',
     'ctgan>=0.5.1,<0.6',
     'deepecho>=0.3.0.post1,<0.4',
     'rdt>=0.6.2,<0.7',
